@@ -23,3 +23,4 @@ In addition, you can adjust binarization min/max to adjust more serious shadaw.
 
 The parameters at a set is not suitable for all the images.
 At similar images, you can use same set of parameters.
+And at another simuliar images, using another set of parameters.
