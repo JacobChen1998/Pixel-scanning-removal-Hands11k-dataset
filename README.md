@@ -24,3 +24,10 @@ In addition, you can adjust binarization min/max to adjust more serious shadaw.
 The parameters at a set is not suitable for all the images.
 At similar images, you can use same set of parameters.
 And at another simuliar images, using another set of parameters.
+
+**Flowchart of our process**
+
+![image](https://github.com/JacobChen1998/Fit-hand-size-based-on-pixel-scanning-on-Hands11k-dataset/blob/main/data_preprocess_flowchart.png)
+
+**Cutting area histogram based on parameters setting in the code**
+![image](https://github.com/JacobChen1998/Fit-hand-size-based-on-pixel-scanning-on-Hands11k-dataset/blob/main/area.png)
