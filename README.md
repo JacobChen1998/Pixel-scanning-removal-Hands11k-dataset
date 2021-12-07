@@ -31,3 +31,6 @@ And at another simuliar images, using another set of parameters.
 
 **Cutting area histogram based on parameters setting in the code**
 ![image](https://github.com/JacobChen1998/Fit-hand-size-based-on-pixel-scanning-on-Hands11k-dataset/blob/main/area.png)
+
+
+**More detail about dataset can go to Hand 11k dataset website (https://sites.google.com/view/11khands)**
